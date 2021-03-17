@@ -1,0 +1,2 @@
+ERROR No Metadata entry for id 57479 on file aleph.gutenberg.org/5/7/4/7/57479/57479-8.zip
+ERROR No Metadata entry for id 57486 on file aleph.gutenberg.org/5/7/4/8/57486/57486-8.zip
